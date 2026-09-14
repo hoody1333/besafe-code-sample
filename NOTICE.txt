@@ -1,0 +1,6 @@
+Copyright © 2026 Łukasz Chudy / LukJohn.com.
+All rights reserved.
+
+This repository is provided for portfolio and code-review purposes only.
+No permission is granted to copy, modify, distribute, sublicense,
+or use this code in another product without prior written permission.

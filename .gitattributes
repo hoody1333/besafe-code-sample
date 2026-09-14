@@ -1,0 +1,4 @@
+*.ts linguist-language=TypeScript linguist-detectable
+*.tsx linguist-language=TypeScript linguist-detectable
+*.jpg linguist-vendored
+*.md linguist-documentation
